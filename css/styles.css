@@ -187,7 +187,7 @@ main h2{
     position: relative;
 }
 .get-form input{
-    padding: 11px 30px;
+    padding: 11px 11px;
     background-color: rgb(228, 219, 219);
     border: none;
     border-radius: 5px;
