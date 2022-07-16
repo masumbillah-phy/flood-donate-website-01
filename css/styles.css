@@ -220,10 +220,14 @@ footer h1{
     margin-bottom: 20px;
 }
 span{
-    color: crimson;
+    color:orange;
 }
 footer p{
     color: grey;
+    margin-bottom: 50px;
+}
+#design{
+    color:red;
 }
  
 
